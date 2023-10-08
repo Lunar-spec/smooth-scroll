@@ -6,9 +6,30 @@ body {
     overflow: hidden;
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.author{
+    position: absolute;
+    font-size: 2rem;
+    margin: 2rem;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    padding: 1rem 2rem;
+    border: .1rem solid #eee;
+    border-radius: 4rem;
+    transition: .3s ease-out;
+}
+
+.author:hover{
+    background: #fff;
+    color: #333;
+}
+
 .symbol {
     position: absolute;
-    margin: auto auto;
     font-size: 2.5rem;
     font-weight: 300;
     color: #fff;
