@@ -1,6 +1,6 @@
 # Smooth Scroll
 
-![Smooth Scroll Demo](https://codepen.io/lunar-spec/pen/jOXXGYg)
+![image](https://github.com/Lunar-spec/smooth-scroll/assets/63588348/7fd32ee1-323a-464e-b993-a0cf717e471d)
 
 Smooth Scroll is a web project that enables smooth and interactive horizontal scrolling of a set of images within a container. Users can drag the images horizontally, scroll with the mouse wheel, or double-click to trigger the smooth scrolling effect.
 
